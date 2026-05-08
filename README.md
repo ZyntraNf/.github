@@ -1,7 +1,7 @@
 # Zyntra
 
 <p align="center">
-  <img src="./assets/logo.png" width="180" alt="Zyntra Logo" />
+  <img width="1536" height="1024" alt="ChatGPT Image May 7, 2026, 11_45_01 PM (1)" src="https://github.com/user-attachments/assets/98b33997-2710-4fe1-b8c4-36a14c49e8be" />
 </p>
 
 <p align="center">
